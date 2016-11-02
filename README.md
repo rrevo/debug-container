@@ -3,5 +3,6 @@
 Docker image with utilities for debugging other services. Ubuntu is used as a base. Contents are-
 
 * curl
+* jq
 * etcdctl
 
